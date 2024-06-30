@@ -1,0 +1,7 @@
+## first of all you need to run the .ipynb file in colab or jupyter notebook
+
+## then open that project in IDE (ex - VS CODE)
+
+## install the flask library by typing pip install flask
+
+## then run the project by typing flask run 
